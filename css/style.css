@@ -23,3 +23,9 @@ body{
     height: 200px;
     object-fit: cover;
   }
+
+  .briefdescription{
+    color: red;
+    font-family:monospace;
+    font-weight: bold;
+  }
