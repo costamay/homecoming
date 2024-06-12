@@ -1,0 +1,25 @@
+
+body{
+    background-image: url(https://media.istockphoto.com/id/1770666963/photo/portrait-of-handsome-caucasian-man-looking-at-laptop-working-online-from-his-home.webp?b=1&s=170667a&w=0&k=20&c=QYmjudsaVH-i-H0GkkeHH2WeJW-YP8KwSl9T4qh8rvs=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading{
+    text-decoration: wavy;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+
+}
+.subheading{
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+.pic{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
